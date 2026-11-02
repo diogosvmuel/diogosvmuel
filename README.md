@@ -1,87 +1,92 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Diogo Samuel" width="100%" />
-</p>
-
-<br/>
-
-I'm Diogo. Portuguese, stubborn, and slightly too comfortable around sharp objects.
-
-I cut hair, get thrown around rings for fun, and lift heavy things to stay angry in a productive way. Somewhere in between I build software, which is a generous way of saying I tell robots what to do and take the credit.
-
-Yes, it works. No, I won't explain it.
-
-Code isn't my personality. It's a tool, like clippers or a steel chair, and just as dangerous in the hands of a guy who thinks he knows what he's doing. Hi, that's me. It's why I'm building a barber booking system and a wrestling CV instead of yet another to-do app.
-
-<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
-
-<p align="center">
-  <img src="assets/what-i-do.svg" alt="Cuts. Wrestles. Builds. Lifts." width="100%" />
+  <img src="assets/header.svg" alt="Diogo Samuel — Vibe coder, software developer, and professional unfinished project." width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="0 refunds issued. 0 lines typed by hand. 999+ bumps taken. 0 clients bled, yet." width="100%" />
+  <samp>PORTUGAL&nbsp; / &nbsp;SOFTWARE DEVELOPMENT&nbsp; / &nbsp;AI-ASSISTED BUILDING</samp>
 </p>
 
-## In progress
+# Diogo Samuel
 
-My personal site, built with React and Next.js:
+**Vibe coder. Formally trained. Occasionally supervised by artificial intelligence.**
 
-```text
-diogosamuel.com
-├── /             the main event
-├── /barber       my availability + bookings, straight into the shop's app
-└── /prowrestler  my CV, my matches, and how to hire me (or fear me)
-```
+I'm a Portuguese software developer with a **Level 5 qualification in Programming and Information Systems** and hands-on experience across web development technologies.
 
-One domain for every questionable decision I've made. Next: a workout tracking app. After that: the gym. After that: more questionable decisions.
+These days, I proudly identify as a **vibe coder**: I turn ideas into working software with a mix of technical foundations, AI tools, curiosity, and an alarming willingness to see where a prompt takes me.
 
-## Tools
+I use AI to move faster, not to outsource having a brain. I still care about the architecture, the user experience, the bugs, and why something broke at 1:47 AM. Especially that last one. It usually gets personal.
 
-**Building with**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React and Next.js" />
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
-**Doing the typing (I just yell at them)**
+## CURRENTLY MAKING THINGS
+
+I’m focused on building useful web products, experimenting with AI-assisted workflows, and getting better at turning rough ideas into polished, working experiences.
+
+**Current playground:** React · Next.js · JavaScript · TypeScript
+
+**The general plan:** build it, test it, make it less ugly, break it in a new and exciting way, repeat.
+
+## THE TOOLBOX
+
+### Technologies
+
+**Currently building with**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=ff2a3a" alt="Claude" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=ff2a3a" alt="Cursor" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=ff2a3a" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=ff2a3a" alt="Gemini" />
-  <!-- Falta uma ferramenta (a tua mensagem ficou cortada). Adiciona aqui. -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&theme=dark" alt="React, Next.js, JavaScript and TypeScript" />
 </p>
 
-**Back when I wrote it all by hand**
+**Previously worked with**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,express,mongodb,firebase,git&theme=dark" alt="Previous stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,express,mongodb,firebase,sqlite,java,django,git&theme=dark" alt="HTML, CSS, Vue, Node.js, Express, MongoDB, Firebase, SQLite, Java, Django and Git" />
 </p>
 
-## Find me
-
-Haircuts, bookings, collabs, websites. Not accepting opinions about wrestling being fake.
+### AI-assisted development
 
 <p>
-  <a href="https://instagram.com/diogosvmuel">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff2a3a" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@diogosvmuel">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=ff2a3a" alt="TikTok" />
-  </a>
+  <img src="https://img.shields.io/badge/Claude-171717?style=for-the-badge&logo=anthropic&logoColor=E8E1D8" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-171717?style=for-the-badge&logo=cursor&logoColor=E8E1D8" alt="Cursor" />
+  <img src="https://img.shields.io/badge/ChatGPT-171717?style=for-the-badge&logo=openai&logoColor=E8E1D8" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-171717?style=for-the-badge&logo=googlegemini&logoColor=E8E1D8" alt="Gemini" />
+</p>
+
+**Other tools:** GitHub · Postman · Android Studio
+
+*The tools change. The questionable ideas remain.*
+
+## THE BACKGROUND
+
+**Level 5 — Programming and Information Systems**  
+Portugal
+
+Formal training in programming and information systems, supported by practical experience working with development technologies across front-end, back-end, databases, and application tooling.
+
+I’m interested in the full process: understanding a problem, choosing a sensible approach, building the thing, and making the experience feel considered.
+
+## THE LAB
+
+I’d rather show working projects than write a paragraph claiming to be passionate about innovation.
+
+Have a look through my repositories. The good stuff belongs in the code, not in a motivational quote.
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
+
+## FIND ME
+
+<p>
   <a href="https://github.com/diogosvmuel">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff2a3a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=E8E1D8" alt="GitHub profile" />
   </a>
-  <!-- Descomenta quando o site estiver online:
-  <a href="https://diogosamuel.com">
-    <img src="https://img.shields.io/badge/diogosamuel.com-000000?style=for-the-badge&logo=nextdotjs&logoColor=ff2a3a" alt="Website" />
+  <a href="https://instagram.com/diogosvmuel">
+    <img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=E8E1D8" alt="Instagram" />
   </a>
-  -->
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="assets/footer.svg" alt="Haters welcome. I take appointments." width="100%" />
+  <img src="assets/footer.svg" alt="Prompt responsibly. Blame the compiler." width="100%" />
 </p>
